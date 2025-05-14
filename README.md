@@ -1,2 +1,2 @@
-# CSharp-12.Proje
+# C#-12.Proje
 Diziler2
